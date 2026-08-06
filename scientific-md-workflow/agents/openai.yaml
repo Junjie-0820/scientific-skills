@@ -1,0 +1,4 @@
+interface:
+  display_name: "Scientific MD Workflow"
+  short_description: "Align, run, and supervise basic MD simulations"
+  default_prompt: "Use $scientific-md-workflow to turn my MD request into an approved run contract, then execute and monitor it safely."
