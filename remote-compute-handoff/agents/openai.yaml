@@ -1,0 +1,4 @@
+interface:
+  display_name: "Remote Compute Handoff"
+  short_description: "Safely operate remote scientific compute infrastructure"
+  default_prompt: "Use $remote-compute-handoff to inspect the available remote infrastructure, prepare the runtime, and launch or diagnose this compute task safely."
